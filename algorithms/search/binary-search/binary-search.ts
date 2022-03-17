@@ -3,7 +3,7 @@ export function binarySearch<T>(
   needle: T,
   start: number = 0,
   end: number = haystack.length - 1
-): number {
+): number | undefined {
   let middle: number;
 
   while (start <= end) {
