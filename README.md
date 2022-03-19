@@ -8,6 +8,11 @@ WIP
 
 ### Sort Algorithms
 [Bubble Sort](./algorithms/sort/bubble-sort/bubble-sort.ts)
+[Quick Sort](./algorithms/sort/quick-sort/quick-sort.ts)
 [Selection Sort](./algorithms/sort/selection-sort/selection-sort.ts)
 
 ## Data structures
+
+## Licence
+
+MIT
