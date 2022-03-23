@@ -14,6 +14,14 @@ WIP
 
 [Selection Sort](./algorithms/sort/selection-sort/selection-sort.ts)  
 
+### Graph Algorithms
+
+[Breadth Search](./algorithms/graph/breadth-search/breadth-search.ts)  
+
+[Dijkstra's](./algorithms/graph/dijkstras-algorithm/dijkstras.ts)  
+
+[Bellman-Ford](./algorithms/graph/bellman-ford-algorithm/bellman-ford.ts)  
+
 
 ## Data structures
 [Hash table](./data-structures/hash-table/hash-table.ts)  
